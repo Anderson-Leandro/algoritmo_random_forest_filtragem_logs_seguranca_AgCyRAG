@@ -59,3 +59,9 @@ Notebook: [`RF_LogFilter_AgCyRAG.ipynb`](RF_LogFilter_AgCyRAG.ipynb). Abrir no G
 1. KURNIAWAN, K.; ARDIAN, R. F.; KIESLING, E.; EKELHART, A. AgCyRAG: an Agentic Knowledge Graph based RAG Framework for Automated Security Analysis. In: RAGE-KG 2025, co-located with ISWC 2025, Nara, Japão, 2025.
 2. BREIMAN, L. Random Forests. *Machine Learning*, v. 45, n. 1, p. 5–32, 2001.
 3. LANDAUER, M.; SKOPIK, F.; FRANK, M.; HOTWAGNER, W.; WURZENBERGER, M.; RAUBER, A. Maintainable Log Datasets for Evaluation of Intrusion Detection Systems. *IEEE Transactions on Dependable and Secure Computing*, 2023. arXiv:2203.08580. Dados: AIT Log Data Set V2.0, Zenodo, https://zenodo.org/record/5789064.
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE).
+
+A licença cobre o código e os dados sintéticos produzidos pelo grupo (`RF_LogFilter_AgCyRAG.ipynb`, `auth.log`, `auth.log.labels`). O artigo base (referência 1) é obra dos seus autores, não é distribuído neste repositório e não é coberto por esta licença.
